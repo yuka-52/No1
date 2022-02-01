@@ -176,6 +176,11 @@ html , body{
     
 }
 
+.button1:hover{
+   background-color:#FFC7AF;
+    color: white; 
+}
+
 @media screen and (max-width:1080px){
     .nav-list-item-header{
         display: none;
@@ -531,6 +536,11 @@ body {
      padding-right:60px;
      margin-right: 40px;
     
+}
+
+.a-1:hover{
+   background-color:#FFC7AF;
+    color: white; 
 }
 
 .a-2{ 
